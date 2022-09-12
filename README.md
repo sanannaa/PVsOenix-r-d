@@ -7,7 +7,7 @@ $$I_d =I_{sat}(e^{\dfrac{\frac{v}{TAk}}{q}}- 1)$$\
 $$I_{sat} =\frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q} }- 1$$\
 $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
 # The four parameter based PV models
-The four parameters are $R_s$, $A$, $I_D$ and $I_{ph}$\\
+The four parameters are $R_s$, $A$, $I_D$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d$$\
 $$I_{ph} = iccs\frac{g}{g_s}(1-\Delta icc(T_s - T))$$\
 $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_{s}}{TAk}}{q}}- 1)$$\
@@ -23,5 +23,3 @@ $$V_{oc} = V_{ocs}-\Delta voc(T_s - T)$$\
 $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
 # Equivalent PV cell models
 # Solar thermal power plant
-xelatex main
-bibtex main
