@@ -58,5 +58,9 @@ $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_s}{TAk}}{q}}-1)$$\
 $$V_{oc} = V_{ocs}-\Delta voc(T_s - T)$$\
 $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
 ## Equivalent PV cell models
-![Equvalent-PV-Cell](#https://raw.githubusercontent.com/snananna/PVsOenix-r-d/ec9c21b227f089ab9641d934dd88f7ab8f1d4093/equivalent%20PV.678c2a8bf3e05af9e0b2e9596fc769a8.svg)
+![Equvalent-PV-Cell](https://github.com/snananna/PVsOenix-r-d/blob/main/Screenshot%20(1076).png?raw=true)
 ## Solar thermal power plant
+* [PowerPoint version](#PowerPoint-version)
+![Solar thermal power plant](https://github.com/snananna/PVsOenix-r-d/blob/main/Slide1.JPG?raw=true) 
+* [Website products by Pallob](#Website-products-by-Pallob)
+![Solar thermal power plant](https://github.com/snananna/PVsOenix-r-d/blob/main/Solar1.png?raw=true)
