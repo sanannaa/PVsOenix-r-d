@@ -10,7 +10,7 @@ $$I_d =I_{sat}(e^{\dfrac{\frac{v}{TAk}}{q}}- 1)$$\
 $$I_{sat} =\frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q} }- 1$$\
 $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
 ```
-After running this project on ,,\TeXstudio , the three parameter based equations look like this,\
+After running this project on $$\TeXstudio$$ , the three parameter based equations look like this,\
 The three parameters are $A_1$, $I_d$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d$$\
 $$I_{ph} = iccs\frac{g}{g_s}(1-∆icc(T_s - T ))$$\
@@ -26,7 +26,7 @@ $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_{s}}{TAk}}{q}}- 1)$$\
 $$I_{sat} = \frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q}}-1$$\
 $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
 ```
-After running this project on ,,\TeXstudio , the four parameter based equations look like this,\
+After running this project on $$\TeXstudio$$ , the four parameter based equations look like this,\
 ## The five parameter based PV models
 ```
 The five parameters are $R_s$ ,  $R_{sh}$, $A$, $I_d$ and $I_{ph}$\
@@ -37,7 +37,7 @@ $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_s}{TAk}}{q}}-1)$$\
 $$V_{oc} = V_{ocs}-\Delta voc(T_s - T)$$\
 $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
 ```
-After running this project on ,,\TeXstudio , the five parameter based equations look like this,\
+After running this project on $$\TeXstudio$$ , the five parameter based equations look like this,\
 The five parameters are $R_s$ ,  $R_{sh}$, $A$, $I_d$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d - I_{sh}$$\
 $$I_{ph} = iccs\frac{g}{g_s}(1-\Delta icc(T_s - T))$$\
