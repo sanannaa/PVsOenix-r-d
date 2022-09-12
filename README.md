@@ -23,3 +23,5 @@ $$V_{oc} = V_{ocs}-\Delta voc(T_s - T)$$\
 $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
 # Equivalent PV cell models
 # Solar thermal power plant
+xelatex main
+bibtex main
