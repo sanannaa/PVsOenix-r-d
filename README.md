@@ -10,7 +10,7 @@ $$I_d =I_{sat}(e^{\dfrac{\frac{v}{TAk}}{q}}- 1)$$\
 $$I_{sat} =\frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q} }- 1$$\
 $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
 ```
-![PVsOenix-LateX
+![PVsOenix-Three-Parameter-Based-Equations](https://https://github.com/snananna/PVsOenix-r-d/blob/main/photo_2022-05-12_02-06-39.jpg?raw=true)
 ##### Derived equations after running this project on $$TeXstudio$$
 The three parameters are $A_1$, $I_d$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d$$\
