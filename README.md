@@ -1,7 +1,7 @@
 # PVsOenix-r-d (https://pvsoenix.com/randd) included; 
 # The three parameter based PV Models
-The three parameters are $A_1$, $I_d$ and $I_{ph}$
-IPV = Iph - Id
+The three parameters are $A_1$, $I_d$ and $I_{ph}$\\
+$$I_{PV} = I_{ph} - I_d$$
 Iph = iccs( g ⁄ gs )(1-∆icc(Ts - T ))
 Isat = (Iph - Voc ⁄Rhs ) ⁄ eVoc ⁄ TAK ⁄ q - 1
 Id = Isat ( eV + IRs ⁄ TAK ⁄ q - 1)
