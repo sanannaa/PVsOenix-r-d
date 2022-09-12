@@ -12,7 +12,7 @@ $$I_{PV} = I_{ph} - I_d$$\
 $$I_{ph} = iccs\frac{g}{g_s}(1-\Delta icc(T_s - T))$$\
 $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_{s}}{TAk}}{q}}- 1)$$\
 $$I_{sat} = \frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q}}-1$$\
-$$V_{oc} & =V_{ocs}-\Delta voc(T_s - T)$$
+$$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
 # The five parameter based PV models
 The five parameters are $R_s$ ,  $R_{sh}$, $A$, $I_d$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d - I_{sh}$$\
