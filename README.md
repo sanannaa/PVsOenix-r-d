@@ -1,4 +1,4 @@
-# PVsOenix-r-d included; https://pvsoenix.com/randd
+# PVsOenix-r-d included;
 This repository contains code of PvsOenix R&D [https://pvsoenix.com/randd](#https://pvsoenix.com/randd); contribution done by [Sanjida Nusrat Ananna](#Sanjida-Nusrat-Ananna). This file describes the basic mathematical models of the parameter based photovoltaic cells in order to make flexible electricity. Models and Methods of making flexible electricity with a view to having a positive impact on environment by [reducing carbon emission](reducing-carbob-emission) instead of not eliminating it. 
 [Continued...](#Continued...)
 ## The three parameter based PV models
