@@ -28,6 +28,8 @@ $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_{s}}{TAk}}{q}}- 1)$$\
 $$I_{sat} = \frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q}}-1$$\
 $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
 ```
+#### Derived equations after running this project on $$TeXit$$- The file image enclosed below; 
+![Four-Parameter-based-PV-models](https://github.com/snananna/PVsOenix-r-d/blob/main/photo_2022-05-12_02-03-14.jpg?raw=true)
 ##### Derived equations after running this project on $$TeXstudio$$
 The four parameters are $R_s$, $A$, $I_D$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d$$\
@@ -45,6 +47,8 @@ $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_s}{TAk}}{q}}-1)$$\
 $$V_{oc} = V_{ocs}-\Delta voc(T_s - T)$$\
 $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
 ```
+#### Derived equations after running this project on $$TeXit$$- The file image enclosed below;
+![Five-Parameter-based-PV-models](https://github.com/snananna/PVsOenix-r-d/blob/main/photo_2022-05-12_02-03-11.jpg?raw=true)
 ##### Derived equations after running this project on $$TeXstudio$$
 The five parameters are $R_s$ ,  $R_{sh}$, $A$, $I_d$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d - I_{sh}$$\
