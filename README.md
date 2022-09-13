@@ -60,7 +60,7 @@ $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
 ## Equivalent PV cell models
 ![Equvalent PV Cell](https://github.com/snananna/PVsOenix-r-d/blob/main/Screenshot%20(1076).png?raw=true)
 ## Solar thermal power plant
-* [PowerPoint version](#PowerPoint-version)
+* [PowerPoint version by Ananna](#PowerPoint-version-by-Ananna)
 ![Solar thermal power plant](https://github.com/snananna/PVsOenix-r-d/blob/main/Slide1.JPG?raw=true) 
 * [Website products by Pallob](#Website-products-by-Pallob)
 ![Solar thermal power plant](https://github.com/snananna/PVsOenix-r-d/blob/main/Solar1.png?raw=true)
