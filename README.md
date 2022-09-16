@@ -22,6 +22,7 @@ $$I_d =I_{sat}(e^{\dfrac{\frac{v}{TAk}}{q}}- 1)$$\
 $$I_{sat} =\frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q} }- 1$$\
 $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
 
+
 ![Three parameter-based PV model](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/a5fcf7aefb62aa1d7c45a297f8477eb304cb6f2a/TPM.svg)
 <!DOCTYPE html>
 <html>
