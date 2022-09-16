@@ -21,11 +21,10 @@ $$I_{ph} = iccs\frac{g}{g_s}(1-∆icc(T_s - T ))$$\
 $$I_d =I_{sat}(e^{\dfrac{\frac{v}{TAk}}{q}}- 1)$$\
 $$I_{sat} =\frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q} }- 1$$\
 $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
+![Three parameter-based PV model]( <p align="center" <img src=""https://raw.githubusercontent.com/snananna/PVsOenix-r-d/a5fcf7aefb62aa1d7c45a297f8477eb304cb6f2a/TPM.svg" alt=" The three parameter-based PV model">
+    </P>
 <p align="center">
-    <img src="" (https://raw.githubusercontent.com/snananna/PVsOenix-r-d/2d73a4d334842563db3b7b946ec1db57314fdf9c/TPM.svg)" alt= "The three parameter-based PV model">
-</p>
-<p align="center">
-  // Figure a(1) : The three parameter-based photovoltaic cell
+   Figure a(1) : The three parameter-based photovoltaic cell
 </p>                
 ## The four parameter based PV model
 ```
@@ -45,11 +44,10 @@ $$I_{ph} = iccs\frac{g}{g_s}(1-\Delta icc(T_s - T))$$\
 $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_{s}}{TAk}}{q}}- 1)$$\
 $$I_{sat} = \frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q}}-1$$\
 $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
+![Four parameter-based PV model]( <p align="center" <img src=""https://raw.githubusercontent.com/snananna/PVsOenix-r-d/a5fcf7aefb62aa1d7c45a297f8477eb304cb6f2a/FPM.svg"  alt=" The four parameter-based PV model">
+    </P>
 <p align="center">
-   <img  src=""https://raw.githubusercontent.com/snananna/PVsOenix-r-d/b7f8c973a236665440a497b1c3283c23185ad619/FPM.svg" alt= "The four parameter-based PV model">
-</p>
-<p align="center">
-// Figure b(1) : The four parameter-based photovoltaic cell
+ Figure b(1) : The four parameter-based photovoltaic cell
 </p>
 ## The five parameter based PV model
 ```
@@ -72,11 +70,10 @@ $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_s}{TAk}}{q}}-1)$$\
 $$V_{oc} = V_{ocs}-\Delta voc(T_s - T)$$\
 $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
 </p>
+![Five parameter-based PV model]( <p align="center" <img src=""https://raw.githubusercontent.com/snananna/PVsOenix-r-d/b7f8c973a236665440a497b1c3283c23185ad619/FiPM.svg" alt=" The five parameter-based PV model">
+    </P>
 <p align="center">
-  <img  src=""https://raw.githubusercontent.com/snananna/PVsOenix-r-d/b7f8c973a236665440a497b1c3283c23185ad619/FiPM.svg" alt= "The five parameter-based PV model">
-</p>
-<p align="center">
-// Figure c(1) : The five parameter-based photovoltaic cell
+Figure c(1) : The five parameter-based photovoltaic cell
 </p>
 ## Equivalent PV cell model
 ![Equvalent PV Cell](https://github.com/snananna/PVsOenix-r-d/blob/main/Screenshot%20(1076).png?raw=true)
