@@ -3,7 +3,7 @@ This repository contains code of PvsOenix R&D [https://pvsoenix.com/randd](https
 # 1. How can we make flexible electricity through our PV models and possible methods of scaling down the coal?
 ### a) By creating three parameter-based photovoltaic model in large scale:
 - ** Continued..**
-## The three parameter based PV models
+## The three parameter based PV model
 ```
 The three parameters are $A_1$, $I_d$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d$$\
@@ -21,7 +21,8 @@ $$I_{ph} = iccs\frac{g}{g_s}(1-∆icc(T_s - T ))$$\
 $$I_d =I_{sat}(e^{\dfrac{\frac{v}{TAk}}{q}}- 1)$$\
 $$I_{sat} =\frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q} }- 1$$\
 $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
-## The four parameter based PV models
+![Three parameter-based PV model}](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/2d73a4d334842563db3b7b946ec1db57314fdf9c/TPM.svg) 
+## The four parameter based PV model
 ```
 The four parameters are $R_s$, $A$, $I_D$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d$$\
@@ -39,7 +40,7 @@ $$I_{ph} = iccs\frac{g}{g_s}(1-\Delta icc(T_s - T))$$\
 $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_{s}}{TAk}}{q}}- 1)$$\
 $$I_{sat} = \frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q}}-1$$\
 $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
-## The five parameter based PV models
+## The five parameter based PV model
 ```
 The five parameters are $R_s$ ,  $R_{sh}$, $A$, $I_d$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d - I_{sh}$$\
@@ -59,7 +60,7 @@ $$I_{sat} = \frac{{I_{ph}}-\frac{V_{oc}}{R_{sh}}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q
 $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_s}{TAk}}{q}}-1)$$\
 $$V_{oc} = V_{ocs}-\Delta voc(T_s - T)$$\
 $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
-## Equivalent PV cell models
+## Equivalent PV cell model
 ![Equvalent PV Cell](https://github.com/snananna/PVsOenix-r-d/blob/main/Screenshot%20(1076).png?raw=true)
 ## Solar thermal power plant
 * [PowerPoint version by Ananna](#PowerPoint-version-by-Ananna)
