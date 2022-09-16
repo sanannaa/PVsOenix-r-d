@@ -21,11 +21,17 @@ $$I_{ph} = iccs\frac{g}{g_s}(1-∆icc(T_s - T ))$$\
 $$I_d =I_{sat}(e^{\dfrac{\frac{v}{TAk}}{q}}- 1)$$\
 $$I_{sat} =\frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q} }- 1$$\
 $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
-![Three parameter-based PV model](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/a5fcf7aefb62aa1d7c45a297f8477eb304cb6f2a/TPM.svg)
 
-<p align="center">
-   Figure a(1) : The three parameter-based photovoltaic cell      
-   
+![Three parameter-based PV model](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/a5fcf7aefb62aa1d7c45a297f8477eb304cb6f2a/TPM.svg)
+<!DOCTYPE html>
+<html>
+  
+<body>
+    <h2><p align="center">
+       Figure a(1) : The three parameter-based photovoltaic cell</h2>
+   <\body>
+      <\html>
+      
 ## The four parameter based PV model
 ```
 The four parameters are $R_s$, $A$, $I_D$ and $I_{ph}$\
