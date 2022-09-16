@@ -33,7 +33,8 @@ $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
         } 
   <\style>
 <body>
-  
+ 
+   <div class="container">
     <h5><p align="center">
        Figure a(1) : The three parameter-based photovoltaic cell</h5>
       
@@ -65,6 +66,7 @@ $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
         } 
    <\style>
 <body>
+  <div class="container">
    <h5><p align="center">
        Figure b(1) : The four parameter-based photovoltaic cell</h5>
         
@@ -98,6 +100,7 @@ $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
         } 
    <\style>
 <body>
+  <div class="container">
     <h5><p align="center">
        Figure c(1) : The five parameter-based photovoltaic cell</h5>
 
