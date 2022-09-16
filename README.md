@@ -25,7 +25,6 @@ $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
 
 <p align="center">
    Figure a(1) : The three parameter-based photovoltaic cell      
-   <\p>
    
 ## The four parameter based PV model
 ```
@@ -49,7 +48,6 @@ $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
 
 <p align="center">
     Figure b(1) : The four parameter-based photovoltaic cell
-   <\p>
    
 ## The five parameter based PV model
 ```
@@ -75,7 +73,6 @@ $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
 
 <p align="center">
    Figure c(1) : The five parameter-based photovoltaic cell
-   <\p>
    
 ## Equivalent PV cell model
 ![Equvalent PV Cell](https://github.com/snananna/PVsOenix-r-d/blob/main/Screenshot%20(1076).png?raw=true)
