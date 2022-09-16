@@ -22,9 +22,7 @@ $$I_d =I_{sat}(e^{\dfrac{\frac{v}{TAk}}{q}}- 1)$$\
 $$I_{sat} =\frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q} }- 1$$\
 $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
 ![Three parameter-based PV model](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/a5fcf7aefb62aa1d7c45a297f8477eb304cb6f2a/TPM.svg)
-<p align="center">
-   Figure a(1) : The three parameter-based photovoltaic cell
-</p>                
+Figure a(1) : The three parameter-based photovoltaic cell              
 ## The four parameter based PV model
 ```
 The four parameters are $R_s$, $A$, $I_D$ and $I_{ph}$\
@@ -44,9 +42,7 @@ $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_{s}}{TAk}}{q}}- 1)$$\
 $$I_{sat} = \frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q}}-1$$\
 $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
 ![Four-Parameter-based-PV-model](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/a5fcf7aefb62aa1d7c45a297f8477eb304cb6f2a/FPM.svg)
-<p align="center">
- Figure b(1) : The four parameter-based photovoltaic cell
-</p>
+Figure b(1) : The four parameter-based photovoltaic cell
 ## The five parameter based PV model
 ```
 The five parameters are $R_s$ ,  $R_{sh}$, $A$, $I_d$ and $I_{ph}$\
@@ -68,9 +64,7 @@ $$I_d = I_{sat}({e^\dfrac{\frac{v+IR_s}{TAk}}{q}}-1)$$\
 $$V_{oc} = V_{ocs}-\Delta voc(T_s - T)$$\
 $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
 ![Five-Parameter-based-PV-model](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/b7f8c973a236665440a497b1c3283c23185ad619/FiPM.svg)
-<p align="center">
 Figure c(1) : The five parameter-based photovoltaic cell
-</p>
 ## Equivalent PV cell model
 ![Equvalent PV Cell](https://github.com/snananna/PVsOenix-r-d/blob/main/Screenshot%20(1076).png?raw=true)
 ## Solar thermal power plant
