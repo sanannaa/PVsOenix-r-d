@@ -31,7 +31,6 @@ $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
             color: blue;
             font-family: cursive;
         } 
-  <\style>
 <body>
  
    <div class="container">
@@ -64,7 +63,6 @@ $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
             color: blue;
             font-family: cursive;
         } 
-   <\style>
 <body>
   <div class="container">
    <h5><p align="center">
@@ -98,7 +96,6 @@ $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
             color: blue;
             font-family: cursive;
         } 
-   <\style>
 <body>
   <div class="container">
     <h5><p align="center">
