@@ -1,7 +1,7 @@
 # PVsOenix-r-d included;
 This repository contains code of PvsOenix R&D [https://pvsoenix.com/randd](https://github.com/snananna/PVsOenix-r-d/blob/main/PVsOenix-r-d.html); contribution done by [Sanjida Nusrat Ananna](#Sanjida-Nusrat-Ananna). This file describes the basic mathematical models of the parameter based photovoltaic cells in order to make flexible electricity- models and methods of making flexible electricity with a view to having a positive impact on environment by **reducing carbon emission** instead of eliminating it. 
-# How can we make flexible electricity through our the PV models and scaling down coal?
-### By creating three parameter-based photovoltaic model in large scale:
+# 1. How can we make flexible electricity through our PV models and possible methods of scaling down the coal?
+### a) By creating three parameter-based photovoltaic model in large scale:
 - ** Continued..**
 ## The three parameter based PV models
 ```
