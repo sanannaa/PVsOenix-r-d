@@ -26,12 +26,9 @@ $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
 ![Three parameter-based PV model](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/a5fcf7aefb62aa1d7c45a297f8477eb304cb6f2a/TPM.svg)
 <!DOCTYPE html>
 <html>
- <head>
- <style>
-    <h5>
-     {color: blue;
-            font-family: cursive;}
-     <p align="center">
+ <font color="blue">
+ <body>
+    <h5> <p align="center">
        Figure a(1) : The three parameter-based photovoltaic cell</h5>
       
 ## The four parameter based PV model
@@ -55,12 +52,9 @@ $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
 ![Four-Parameter-based-PV-model](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/a5fcf7aefb62aa1d7c45a297f8477eb304cb6f2a/FPM.svg)
 <!DOCTYPE html>
 <html>
- <head>
-  <style>
-   <h5>
-    {color: blue;
-            font-family: cursive;}
-    <p align="center">
+ <font color="blue">
+ <body>
+  <h5><p align="center">
        Figure b(1) : The four parameter-based photovoltaic cell</h5>
         
 ## The five parameter based PV model
@@ -86,12 +80,9 @@ $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
 ![Five-Parameter-based-PV-model](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/b7f8c973a236665440a497b1c3283c23185ad619/FiPM.svg)
 <!DOCTYPE html>
 <html>
- <head>
-  <style>
-    <h5>
-     {color: blue;
-     font-family: cursive;}
-     <p align="center">
+ <font color="blue">
+ <body>
+    <h5><p align="center">
        Figure c(1) : The five parameter-based photovoltaic cell</h5>
 
 ## Equivalent PV cell model
