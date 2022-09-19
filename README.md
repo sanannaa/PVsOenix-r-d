@@ -33,12 +33,12 @@ This repository contains code of PvsOenix R&D [https://pvsoenix.com/randd](https
   
 ## How It Looks 
 
-  # 1. How can we make flexible electricity through our PV models and possible methods of scaling down the coal?
+  ### 1. How can we make flexible electricity through our PV models and possible methods of scaling down the coal?
 
-  ### a) By creating three parameter-based photovoltaic model in large scale:
+  #### a) By creating three parameter-based photovoltaic model in large scale:
 - ** Continued..**
 
-  ## The three parameter based PV model
+  ### The three parameter based PV model
 ```The three parameters are $A_1$, $I_d$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d$$\
 $$I_{ph} = iccs\frac{g}{g_s}(1-∆icc(T_s - T ))$$\
@@ -65,7 +65,7 @@ $$V_{oc} = V_{ocs} - ∆voc( T_s - T )$$
     <h5> <p align="center">
        Figure a(1) : The three parameter-based photovoltaic cell</h5>
       
-## The four parameter based PV model
+### The four parameter based PV model
 ```
 The four parameters are $R_s$, $A$, $I_D$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d$$\
@@ -91,7 +91,7 @@ $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
   <h5><p align="center">
        Figure b(1) : The four parameter-based photovoltaic cell</h5>
         
-## The five parameter based PV model
+### The five parameter based PV model
 ```
 The five parameters are $R_s$ ,  $R_{sh}$, $A$, $I_d$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d - I_{sh}$$\
@@ -119,9 +119,9 @@ $$I_{sh} = \frac{v+ IR_s}{R_{sh}}$$
     <h5><p align="center">
        Figure c(1) : The five parameter-based photovoltaic cell</h5>
 
-## Equivalent PV cell model
+### Equivalent PV cell model
 ![Equvalent PV Cell](https://github.com/snananna/PVsOenix-r-d/blob/main/Screenshot%20(1076).png?raw=true)
-## Solar thermal power plant
+### Solar thermal power plant
 * [PowerPoint version by Ananna](#PowerPoint-version-by-Ananna)
 ![Solar thermal power plant](https://github.com/snananna/PVsOenix-r-d/blob/main/Slide1.JPG?raw=true) 
 * [Website products by Pallob](#Website-products-by-Pallob)
