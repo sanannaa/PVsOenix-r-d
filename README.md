@@ -9,7 +9,8 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
      <li><a href="#how-it-looks">How It Looks</a></li>
-    <li><a href="#sections">Sections</a></li><li>
+    <li><a href="#sections">Sections</a></li>
+        <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
@@ -21,15 +22,21 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+  
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This repository contains code of PvsOenix R&D [https://pvsoenix.com/randd](https://github.com/snananna/PVsOenix-r-d/blob/main/PVsOenix-r-d.html); contribution done by [Sanjida Nusrat Ananna](#Sanjida-Nusrat-Ananna). This file describes the basic mathematical models of the parameter based photovoltaic cells in order to make flexible electricity- models and methods of making flexible electricity with a view to having a positive impact on environment by **reducing carbon emission** instead of eliminating it. 
-# 1. How can we make flexible electricity through our PV models and possible methods of scaling down the coal?
-### a) By creating three parameter-based photovoltaic model in large scale:
+  
+This repository contains code of PvsOenix R&D [https://pvsoenix.com/randd] (https://github.com/snananna/PVsOenix-r-d/blob/main/PVsOenix-r-d.html); contribution done by [Sanjida Nusrat Ananna](#Sanjida-Nusrat-Ananna). This file describes the basic mathematical models of the parameter based photovoltaic cells in order to make flexible electricity- models and methods of making flexible electricity with a view to having a positive impact on environment by **reducing carbon emission** instead of eliminating it.
+  
+## How It Looks 
+
+  # 1. How can we make flexible electricity through our PV models and possible methods of scaling down the coal?
+
+  ### a) By creating three parameter-based photovoltaic model in large scale:
 - ** Continued..**
-## The three parameter based PV model
-```
-The three parameters are $A_1$, $I_d$ and $I_{ph}$\
+
+  ## The three parameter based PV model
+```The three parameters are $A_1$, $I_d$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d$$\
 $$I_{ph} = iccs\frac{g}{g_s}(1-∆icc(T_s - T ))$$\
 $$I_d =I_{sat}(e^{\dfrac{\frac{v}{TAk}}{q}}- 1)$$\
