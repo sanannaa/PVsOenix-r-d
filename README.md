@@ -41,7 +41,7 @@ $$I_{sat} = \frac{I_{ph}}{e^\dfrac{\frac{V_{oc}}{TAk}}{q}}-1$$\
 $$V_{oc} =V_{ocs}-\Delta voc(T_s - T)$$
 ```
 #### Derived equations after running this code on $$TeXit$$- The file image enclosed below; 
-![Four-Parameter-based-PV-model](https://github.com/snananna/PVsOenix-r-d/blob/main/fpm.png?raw=true)
+![Four-Parameter-based-PV-model](https://raw.githubusercontent.com/snananna/PVsOenix-r-d/ac4b3d516c1c9570bffa1df598568ed6fe7b6e0a/fpm.png)
 ##### Derived equations after running this code on $$TeXstudio$$
 The four parameters are $R_s$, $A$, $I_D$ and $I_{ph}$\
 $$I_{PV} = I_{ph} - I_d$$\
